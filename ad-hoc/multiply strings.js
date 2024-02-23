@@ -1,13 +1,19 @@
 /**
+ * Multiplies two numbers represented as strings
  * @param {string} num1
  * @param {string} num2
- * @return {string}
+ * @return {string} The result of the multiplication
  */
 var multiply = function (num1, num2) {
+  // Check if either number is zero
   if (num1 === "0" || num2 === "0") {
     return "0";
   }
+
+  // Calculate the results array
   const results = resultsArr(num1, num2);
+
+  // Add the results of the multiplication and return the sum
   return addResults(results);
 };
 
