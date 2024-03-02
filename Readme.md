@@ -3,6 +3,7 @@
 1. [Move Zeroes](./two-Pointer/easy/Move%20Zeroes)
 2. [Square of a Sorted Array](./two-Pointer/easy/square%20of%20sorted%20array)
 3. [Remove Element](./two-Pointer/easy/Remove%20Element/removeElement.js)
+4. [88. Merge Sorted Array](./two-Pointer/easy/88.%20Merge%20Sorted%20Array)
 
 ## [Medium](./two-Pointer/medium/)
 1. [3Sum](./two-Pointer/medium/3Sum)
@@ -14,6 +15,7 @@
 7. [Reverse Words in a String](./two-Pointer/medium/Reverse%20Words%20in%20a%20String)
 8. [sort colors](./two-Pointer/medium/sort%20colors)
 9. [Two Sum II - Input Array Is Sorted](./two-Pointer/medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
+10. [Next Permutation](./two-Pointer/medium/31.%20Next%20Permutation)
 
 ## [Hard](./two-Pointer/hard/)
 1. [Trapping Rain Water](./two-Pointer/hard/Trapping%20Rain%20Water)  
