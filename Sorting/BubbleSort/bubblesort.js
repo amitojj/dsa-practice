@@ -23,19 +23,19 @@ const bubbleSortRecursion = function (arr) {
 };
 
 const solve = function (arr, i, j, isSwapped) {
-  if (i == 0) return;
+  if (i == 1) return;
   if (j == i) {
     if (isSwapped == false) return;
-    solve(arr, i - 1, 0,false);
-    return;
+    i--;
+    j = 0;
+    isSwapped = false;
   }
   if (arr[j] > arr[j + 1]) {
     [arr[j], arr[j + 1]] = [arr[j + 1], arr[j]];
     isSwapped = true;
   }
   solve(arr, i, j + 1, isSwapped);
-  return;
 };
-let arr = [3,2,1];
+let arr = [3,2,1,5,6,4,-2,44,0,0,1,99];
 
 console.log(bubbleSortRecursion(arr));
