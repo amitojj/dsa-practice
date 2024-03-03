@@ -40,7 +40,12 @@
 </br>    
 </br>
 
-# [3.Ad-hoc](./Ad-hoc/)
+# [3.Sorting](./Sorting/) 
+## [Algorithms](./Sorting/algorithms/)   
+</br>    
+</br>
+
+# [4.Ad-hoc](./Ad-hoc/)
 ## [Easy](./Ad-hoc/easy/)
 1. [Find Pivot Index](./Ad-hoc/easy/Find%20Pivot%20Index)
 2. [Maximum Average Subarray I](./Ad-hoc/easy/Maximum%20Average%20Subarray%20I)
