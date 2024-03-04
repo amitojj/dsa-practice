@@ -59,7 +59,18 @@
 </br>    
 </br>
 
-# [4.Ad-hoc](./Ad-hoc/)
+# [4.Merge-Sort](./Merge-Sort/)
+
+## [Easy](./Merge-Sort/easy/)
+
+## [Medium](./Merge-Sort/medium/)
+
+## [Hard](./Merge-Sort/hard/)
+1.[Count of Smaller Numbers After Self](./Merge-Sort/hard/Count%20of%20Smaller%20Numbers%20After%20Self)
+
+</br>    
+</br>
+# [Ad-hoc](./Ad-hoc/)
 
 ## [Easy](./Ad-hoc/easy/)
 
