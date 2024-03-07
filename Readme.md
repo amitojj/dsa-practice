@@ -53,23 +53,25 @@
 # [3.Sorting](./Sorting/)
 
 ## [Algorithms](./Sorting/algorithms/)
+
 ## [Merge-Sort](./Recursion/Merge-Sort/)
 
 ### [Hard](./Recursion/Merge-Sort/hard/)
+
 1. [Count of Smaller Numbers After Self](./Recursion/Merge-Sort/hard/Count%20of%20Smaller%20Numbers%20After%20Self)
 2. [Count of Range Sum](./Recursion/Merge-Sort/hard/Count%20of%20Range%20Sum)
-
-
 
 </br>    
 </br>
 
 # [4.Recursion](./Recursion/)
+
 ## [Merge-Sort](./Recursion/Merge-Sort/)
 
 ### [Medium](./Recursion/Merge-Sort/medium/)
 
 ### [Hard](./Recursion/Merge-Sort/hard/)
+
 1. [Count of Smaller Numbers After Self](./Recursion/Merge-Sort/hard/Count%20of%20Smaller%20Numbers%20After%20Self)
 2. [Count of Range Sum](./Recursion/Merge-Sort/hard/Count%20of%20Range%20Sum)
 
