@@ -55,11 +55,14 @@
 ## [Algorithms](./Sorting/algorithms/)
 
 ## [Merge-Sort](./Recursion/Merge-Sort/)
-
+### [Medium](./Recursion/Merge-Sort/medium/)
+1. [Inversion Count](./Recursion/Merge-Sort/medium/InversionCount)
 ### [Hard](./Recursion/Merge-Sort/hard/)
 
 1. [Count of Smaller Numbers After Self](./Recursion/Merge-Sort/hard/Count%20of%20Smaller%20Numbers%20After%20Self)
 2. [Count of Range Sum](./Recursion/Merge-Sort/hard/Count%20of%20Range%20Sum)
+3. [Reverse Pairs](./Recursion/Merge-Sort/hard/Reverse%20Pairs)
+
 
 </br>    
 </br>
@@ -69,11 +72,13 @@
 ## [Merge-Sort](./Recursion/Merge-Sort/)
 
 ### [Medium](./Recursion/Merge-Sort/medium/)
+1. [Inversion Count](./Recursion/Merge-Sort/medium/InversionCount)
 
 ### [Hard](./Recursion/Merge-Sort/hard/)
 
 1. [Count of Smaller Numbers After Self](./Recursion/Merge-Sort/hard/Count%20of%20Smaller%20Numbers%20After%20Self)
 2. [Count of Range Sum](./Recursion/Merge-Sort/hard/Count%20of%20Range%20Sum)
+3. [Reverse Pairs](./Recursion/Merge-Sort/hard/Reverse%20Pairs)
 
 </br>    
 </br>
