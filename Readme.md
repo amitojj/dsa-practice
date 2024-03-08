@@ -52,9 +52,9 @@
 
 # [3.Sorting](./Sorting/)
 
-## [Algorithms](./Sorting/Algorithms/)
+## [3.1 Algorithms](./Sorting/Algorithms/)
 
-## [Merge-Sort](./Recursion/Merge-Sort/)
+## [3.2 Merge-Sort](./Recursion/Merge-Sort/)
 
 ### [Medium](./Recursion/Merge-Sort/medium/)
 
@@ -71,7 +71,7 @@
 
 # [4.Recursion](./Recursion/)
 
-## [Merge-Sort](./Recursion/Merge-Sort/)
+## [4.1 Merge-Sort](./Recursion/Merge-Sort/)
 
 ### [Medium](./Recursion/Merge-Sort/medium/)
 
