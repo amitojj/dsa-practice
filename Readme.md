@@ -86,6 +86,11 @@
 </br>    
 </br>
 
+# [5.Binary-Search](./Binary%20Search/)
+## [Medium](./Binary-Search/Medium/)
+1. [Find First and Last Position of Element in Sorted Array](./Binary%20Search/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
+
+
 # [Ad-hoc](./Ad-hoc/)
 
 ## [Easy](./Ad-hoc/easy/)
