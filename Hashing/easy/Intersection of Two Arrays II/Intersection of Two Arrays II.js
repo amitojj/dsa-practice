@@ -16,4 +16,5 @@ var intersect = function (nums1, nums2) {
   }
   return result;
 };
-
+//time complexity: O(n+m)
+//space complexity: O(n)

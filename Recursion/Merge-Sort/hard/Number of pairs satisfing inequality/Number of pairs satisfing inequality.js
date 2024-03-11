@@ -47,3 +47,5 @@ var numberOfPairs = function (nums1, nums2, diff) {
     return resultArr;
   }
 };
+//time complexity: O(nlogn)
+//space complexity: O(n)
