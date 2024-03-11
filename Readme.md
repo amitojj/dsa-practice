@@ -33,6 +33,8 @@
 
 1. [2 sum](./Hashing/easy/2%20sum)
 2. [roman to integer](./Hashing/easy/roman%20to%20integer)
+3. [Intersection of Two Arrays](./Hashing/easy/Intersection%20of%20Two%20Arrays)
+4. [Intersection of Two Arrays II](./Hashing/easy/Intersection%20of%20Two%20Arrays%20II)
 
 ## Medium
 
