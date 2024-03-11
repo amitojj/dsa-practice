@@ -15,6 +15,7 @@ var searchRange = function (nums, target) {
     }
   }
   if (result[0] === -1) return result;
+  //upper bound
   left = 0;
   right = nums.length - 1;
   while (left <= right) {

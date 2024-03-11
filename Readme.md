@@ -88,9 +88,15 @@
 </br>
 
 # 5.Binary-Search
-## Medium
-1. [Find First and Last Position of Element in Sorted Array](./Binary%20Search/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 
+## Easy
+
+1. [Sqrt(x)](<./Binary%20Search/Easy/Sqrt(x)>)
+
+## Medium
+
+1. [Find First and Last Position of Element in Sorted Array](./Binary%20Search/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
+2. [Single Element in a Sorted Array](./Binary%20Search/Medium/Single%20Element%20in%20a%20Sorted%20Array)
 
 # Ad-hoc
 
@@ -102,5 +108,3 @@
 ## Medium
 
 1. [multiply strings](./Ad-hoc/medium/multiply%20strings)
-
-
