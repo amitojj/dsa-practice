@@ -85,6 +85,7 @@
 2. [Count of Range Sum](./Recursion/Merge-Sort/hard/Count%20of%20Range%20Sum)
 3. [Reverse Pairs](./Recursion/Merge-Sort/hard/Reverse%20Pairs)
 4. [Number of pairs satisfing inequality](./Recursion/Merge-Sort/hard/Number%20of%20pairs%20satisfing%20inequality)
+5. [Count of Smaller Numbers After Self](./Recursion/Merge-Sort/hard/Count%20of%20Smaller%20Numbers%20After%20Self)
 
 </br>    
 </br>
@@ -93,12 +94,17 @@
 
 ## Easy
 
-1. [Sqrt(x)](<./Binary%20Search/Easy/Sqrt(x)>)
+1. [Sqrt(x)](./Binary%20Search/Easy/Sqrt(x))
+2. [278. First Bad Version](./Binary%20Search/Easy/278.%20First%20Bad%20Version)
 
 ## Medium
 
 1. [Find First and Last Position of Element in Sorted Array](./Binary%20Search/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 2. [Single Element in a Sorted Array](./Binary%20Search/Medium/Single%20Element%20in%20a%20Sorted%20Array)
+3. [33. Search in Rotated Sorted Array](./Binary%20Search/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array)
+4. [240. Search a 2D Matrix II](./Binary%20Search/Medium/240.%20Search%20a%202D%20Matrix%20II)
+5. [Kth Missing Positive Number](./Binary%20Search/Medium/Kth%20Missing%20Positive%20Number)
+
 
 # Ad-hoc
 

@@ -71,4 +71,3 @@ function mergeSortCount(left, right, result) {
   return sorted;
 }
 console.log(countSmaller([5,2,6,1,2,0]));
-l
