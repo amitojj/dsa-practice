@@ -57,11 +57,11 @@
 
 ### [3.1 Algorithms](./3.Sorting/Algorithms/)
 
-### 3.2 Merge-Sort
+### [3.2 Merge-Sort](./4.Recursion/Merge-Sort/)
 
 #### Medium
 
-1. [Inversion Count](./Recursion/Merge-Sort/medium/InversionCount)
+1. [Inversion Count](./4.Recursion/Merge-Sort/medium/InversionCount)
 
 #### Hard
 
@@ -75,7 +75,7 @@
 
 # 4.Recursion
 
-### 4.1 Merge-Sort
+### [4.1 Merge-Sort](./4.Recursion/Merge-Sort/)
 
 #### Medium
 
